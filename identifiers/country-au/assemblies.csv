@@ -1,6 +1,6 @@
 id,name
 ocd-division/country:au/state:nsw/district:strathfield,Strathfield
-ocd-division/country:au/state:nsw/district:east hills,East Hills
+ocd-division/country:au/state:nsw/district:east_hills,East Hills
 ocd-division/country:au/state:nsw/district:liverpool,Liverpool
 ocd-division/country:au/state:nsw/district:northern_tablelands,Northern Tablelands
 ocd-division/country:au/state:nsw/district:prospect,Prospect
@@ -19,7 +19,7 @@ ocd-division/country:au/state:nsw/district:miranda,Miranda
 ocd-division/country:au/state:nsw/district:lake_macquarie,Lake Macquarie
 ocd-division/country:au/state:nsw/district:hawkesbury,Hawkesbury
 ocd-division/country:au/state:nsw/district:tweed,Tweed
-ocd-division/country:au/state:nsw/district:lane cove,Lane Cove
+ocd-division/country:au/state:nsw/district:lane_cove,Lane Cove
 ocd-division/country:au/state:nsw/district:lismore,Lismore
 ocd-division/country:au/state:nsw/district:dubbo,Dubbo
 ocd-division/country:au/state:nsw/district:wollongong,Wollongong
@@ -141,7 +141,7 @@ ocd-division/country:au/state:wa/district:roe,Roe
 ocd-division/country:au/state:wa/district:west_swan,West Swan
 ocd-division/country:au/state:wa/district:morley,Morley
 ocd-division/country:au/state:wa/district:cockburn,Cockburn
-ocd-division/country:au/state:wa/district:swan hills,Swan Hills
+ocd-division/country:au/state:wa/district:swan_hills,Swan Hills
 ocd-division/country:au/state:wa/district:albany,Albany
 ocd-division/country:au/state:wa/district:kingsley,Kingsley
 ocd-division/country:au/state:wa/district:nedlands,Nedlands
@@ -230,7 +230,7 @@ ocd-division/country:au/state:qld/district:redcliffe,Redcliffe
 ocd-division/country:au/state:qld/district:redlands,Redlands
 ocd-division/country:au/state:qld/district:rockhampton,Rockhampton
 ocd-division/country:au/state:qld/district:sandgate,Sandgate
-ocd-division/country:au/state:qld/district:scenic rim,Scenic Rim
+ocd-division/country:au/state:qld/district:scenic_rim,Scenic Rim
 ocd-division/country:au/state:qld/district:south_brisbane,South Brisbane
 ocd-division/country:au/state:qld/district:southern_downs,Southern Downs
 ocd-division/country:au/state:qld/district:southport,Southport
